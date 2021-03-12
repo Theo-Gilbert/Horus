@@ -2,7 +2,7 @@
 
 Le Soleil est l'étoile de notre système solaire.
 
-![Icone de mercure](sun.png)
+![Icone du soleil](sun.png)
 
 Icone créée par [monkik](<div>Icons made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>) trouvée sur [flaticon](https://www.flaticon.com/).
 
